@@ -1,0 +1,1 @@
+{"excluded":0,"failed":7,"invalid":0,"received_points":7,"skipped":1,"success":2,"total_points":20}
